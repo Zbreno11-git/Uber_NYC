@@ -19,13 +19,13 @@ Exported clean data → Tableau dashboard
 
 
 📊 Visualizations
-<!-- Plotly: Pickups by Month & Weekday -->
-<!-- Plotly: Hourly Rush by Weekday -->
-<!-- Plotly: Pareto — Dispatching Bases -->
-<!-- Plotly: Airport Demand by Hour (JFK · LGA · EWR) -->
+![Plotly: Pickups by Month & Weekday](weekmonth.png)
+![Plotly: Hourly Rush by Weekday](hourly.png)
+![Plotly: Pareto — Dispatching Bases](pareto.png)
 
 📈 Tableau Dashboard
 🔗 [View Dashboard Here](https://public.tableau.com/app/profile/breno.zamponi/viz/UberNYCReport/UberReport?publish=yes)
+![Screenshot](uber_dash.png)
 
 💡 Key Insights & Recommendations
 #ActionWhy🚀Scale Weekend FleetFri–Sat peak demand — add drivers 6pm–12am⚡Target Rush HourDemand spikes 6–8pm daily — surge pricing + bonuses✈️Prioritize JFKJFK outperforms LGA 24/7 — focus driver acquisition there🌙Monetize Overnight12–5am is underused — test promo fares + nightlife deals
